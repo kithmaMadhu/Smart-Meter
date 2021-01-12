@@ -1,0 +1,2 @@
+# Smart-Meter
+This project was focused on creating a GUI for the automated data collecting system implemented by CEB. Through this application, user can see how their monthly consumption vary, how much do they need to pay for the consumption and what are the latest updates likewise. We got a backup file which is created using Microsoft’s standard BACKUP DATABASE. That database includes all real data collected using smart meters. 
